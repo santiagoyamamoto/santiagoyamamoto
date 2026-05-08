@@ -1,0 +1,63 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0df63;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.cabecera {
+    background-color: #00447c;
+    color: rgb(255, 196, 0);
+    text-align: center;
+    padding: 25px;
+}
+
+.cabecera h1 {
+    margin: 0 0 10px 0;
+}
+
+.cabecera h2 {
+    margin: 0;
+    font-size: 18px;
+    font-weight: normal;
+    color: rgb(255, 196, 0);
+}
+
+.contenido {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+section {
+    margin-bottom: 35px;
+}
+
+h3 {
+    color: #00447c;
+    border-bottom: 2px solid #00447c;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+p, ul {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.seccion-argentina {
+    margin-top: 40px;
+}
+
+.seccion-argentina h3 {
+    color: #4395D1;
+    border-bottom: 2px solid #4395D1;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 15px;
+}
